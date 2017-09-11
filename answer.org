@@ -1,3 +1,9 @@
+* 题解
+
+** 1243                                                              :string:
+
+注意输出格式，每个用例后加空行
+
 ** 3948                                                          :force:math:
 
 参考自 http://blog.csdn.net/snowy_smile/article/details/70145043
