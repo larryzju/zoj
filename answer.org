@@ -4,6 +4,10 @@
 
 注意输出格式，每个用例后加空行
 
+** 3600                                                               :float:
+
+近似在最后结账时，注意输出为调价前后差值
+
 ** 3948                                                          :force:math:
 
 参考自 http://blog.csdn.net/snowy_smile/article/details/70145043
